@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import streamlit as st
 import pandas as pd
 import os
@@ -125,5 +125,6 @@ Further investigation is recommended.
 
 else:
     st.info("No suspicious transactions detected.")
+
 
 st.success("🚀 GenAI Fraud Detection Dashboard Active")
