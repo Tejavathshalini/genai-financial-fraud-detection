@@ -6,6 +6,18 @@ The system analyzes transaction patterns and identifies suspicious activities us
 
 ---
 
+# GenAI Financial Fraud Detection System
+
+## Live Dashboard
+
+Click below to explore the interactive fraud detection dashboard.
+
+🔗 https://genai-financial-fraud-detection-khhkus8zmwetscgvfzzjeg.streamlit.app/
+
+---
+
+This project implements an AI-powered financial fraud detection system using anomaly detection and interactive dashboards.
+
 ## Features
 
 - Financial transaction anomaly detection
